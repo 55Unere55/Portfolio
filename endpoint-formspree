@@ -1,0 +1,3 @@
+https://formspree.io/f/xkneervj
+
+Place this URL in the action attribute of your form. Also, make sure your form uses method="POST". Finally, ensure that each input has a name attribute.
